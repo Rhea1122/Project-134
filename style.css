@@ -1,0 +1,20 @@
+body
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.my_btn
+{
+    background-color: black;
+    color: antiquewhite;
+    text-decoration:dashed;
+    font-variant: small-caps;
+}
+canvas
+{
+    margin-top: 150px;
+    border: 20px;
+    border-radius: 10px;
+    border-style: dashed;
+    border-color: black;
+}
